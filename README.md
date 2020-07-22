@@ -20,8 +20,8 @@
 
 - 某985计算机系<br>
   computer science major of certain 985 university
-- 等待高考后<br>
-  wait until the exam ends
+- 等待高考后更新<br>
+  await updating until the exam ends
 
 <br>
 
