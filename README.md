@@ -11,8 +11,8 @@
 **工作邮箱**：[littleye233@163.com](mailto:littleye233@163.com)<br>
 **Email for Work**: [littleye233@163.com](mailto:littleye233@163.com)
 
-**爱好**：编程（Python、NodeJS为主）、游戏（[osu!](https://osu.ppy.sh)、[Minecraft](https://minecraft.net)）、~~老二刺螈~~<br>
-**Hobby**: coding (Python, NodeJS mainly), gaming ([osu!](https://osu.ppy.sh)、[Minecraft](https://minecraft.net)), ~~old erciyuan~~
+**爱好**：编程（Python、NodeJS为主）、游戏（[osu!](https://osu.ppy.sh)、[Minecraft](https://minecraft.net)）、~~老二刺螈~~、等等<br>
+**Hobby**: coding (Python, NodeJS mainly), gaming ([osu!](https://osu.ppy.sh)、[Minecraft](https://minecraft.net)), ~~old erciyuan~~, etc.
 
 <br>
 
