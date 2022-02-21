@@ -1,6 +1,10 @@
-### Hi there 👋
+# LittleYe233's Profile
+
+**LIFE IS BEAUTIFUL, MAYBE**
 
 <!--
+### Hi there 👋
+
 **LittleYe233/LittleYe233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 ACM/CTF/Web/EIE
+- 🌱 JavaScript/TypeScript/Python/C++/Drawing
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=LittleYe233&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleYe233&layout=compact&theme=dracula)](https://github.com/LittleYe233)
