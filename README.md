@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 ACM/CTF/Web/EIE
-- 🌱 JavaScript/TypeScript/Python/C++/Drawing
+- 🌱 JavaScript/TypeScript/Python/C++/Drawing/Japanese/Visual Novel Dev & Translation
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=LittleYe233&show_icons=true&theme=radical) 
 
