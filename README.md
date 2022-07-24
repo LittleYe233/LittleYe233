@@ -1,6 +1,6 @@
 # LittleYe233's Profile
 
-**LIFE IS BEAUTIFUL, MAYBE**
+**Coding is part of my life. It will be indelible FOREVER; it is a lighthouse marking the entrance towards harbour of my soul.**
 
 <!--
 ### Hi there 👋
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 ACM/CTF/Web/EIE
-- 🌱 JavaScript/TypeScript/Python/C++/Drawing/Japanese/Visual Novel Dev & Translation
+- 🌱 JavaScript/TypeScript/Python/C++/Drawing/Japanese/Visual Novel Dev & Translation/Cross-dressing(?)
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=LittleYe233&show_icons=true&theme=radical) 
 
