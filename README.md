@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleYe233&layout=compact&theme=dracula)](https://github.com/LittleYe233) -->
 
-✅ Depressed / Give up quickly / Rust / Minecraft modding
+✅ Depressed / Give up quickly / Rust / Minecraft modding / Android Software (Maybe?) / Stellaris
 
-❌ CS / CS / CS / CS
+❌ CS / CS / CS / CS / CS / CS
