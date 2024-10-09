@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ✅ Depressed / Give up quickly / Embedded System / Electrical Engineering (Hardware & Software) / Computer Science / Artificial Intelligence / Biomedical Science / Neuroscience / Mechanical
 
-❌ ...?
+❌ **COMMIT SUICIDE**
