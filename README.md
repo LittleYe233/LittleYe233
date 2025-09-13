@@ -26,7 +26,3 @@ Here are some ideas to get you started:
 <!-- ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=LittleYe233&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleYe233&layout=compact&theme=dracula)](https://github.com/LittleYe233) -->
-
-✅ Depressed / Give up quickly / Embedded System / Electrical Engineering (Hardware & Software) / Computer Science / Artificial Intelligence / Biomedical Science / Neuroscience / Mechanical
-
-❌ **COMMIT SUICIDE**
